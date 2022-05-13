@@ -1,0 +1,122 @@
+  [
+    {
+      "nameProduct": "iPhone 9",
+      "description": "Ngừng kinh doanh",
+      "image": "/images/ip9.JPG",
+      "price": "0$"
+  },
+    {
+      "nameProduct": "iPhone X",
+      "description": "Thay vì sở hữu màn hình OLED truyền thống, chiếc smartphone này sở hữu màn hình LCD. Bù lại với công nghệ True Tone cùng màn hình tràn viền rộng tới 6.1 inch, mọi trải nghiệm trên máy vẫn đem lại sự thích thú và hoàn hảo, như dòng cao cấp khác của Apple.",
+      "image": "/images/ipX.JPG",
+      "price": "200$"
+  },
+    {
+      "nameProduct": "iPhone 11",
+      "description": "iPhone 11 đóng gói chip A13 Bionic mạnh mẽ của chúng tôi vào kích thước phổ biến nhất với mức giá phải chăng nhất của chúng tôi. Đó chỉ là những gì bạn đang chờ đợi.",
+      "image": "/images/ip11.JPG",
+      "price": "300$"
+  },
+  {
+    "nameProduct": "Iphone 12",
+    "description": "Vào ngày 13/10 vừa qua, Apple đã chính thức cho ra mắt thế hệ iPhone 12 mới với 4 phiên bản, và trong đó mẫu iPhone 12 tiêu chuẩn, với nhiều cải tiến về cả bên ngoài lẫn bên trong, hứa hẹn sẽ lại tiếp tục nối tiếp sự thành công từ chiếc iPhone 11 tiền nhiệm.",
+    "image": "/images/ip12se.JPG",
+    "price": "400$"
+},
+{
+  "nameProduct": "Iphone 13",
+  "description": "Con chip Apple A15 Bionic siêu mạnh được sản xuất trên quy trình 5 nm giúp iPhone 13 đạt hiệu năng ấn tượng, với CPU nhanh hơn 50%, GPU nhanh hơn 30% so với các đối thủ trong cùng phân khúc.",
+  "image": "/images/ip13.JPG",
+  "price": "700$"
+},
+{
+  "nameProduct": "iPad 9",
+  "description": "Sau thành công của iPad 8, Apple cho đã cho ra mắt iPad 9 WiFi 64GB - phiên bản tiếp theo của dòng iPad 10.2 inch, về cơ bản nó kế thừa những điểm mạnh từ các phiên bản trước đó và được cải tiến thêm hiệu suất, trải nghiệm người dùng nhằm giúp nhu cầu sử dụng giải trí và làm việc tiện lợi, linh hoạt hơn",
+  "image": "/images/ipad9.JPG",
+  "price": "550$"
+},
+{
+  "nameProduct": "iPad mini 6 WiFi 64GB",
+  "description": "iPad mini 6 có sức mạnh vượt trội khi so với thế hệ tiền nhiệm, sử dụng chip xử lý Apple A15 Bionic 6 nhân, có 15 nghìn tỷ bóng dẫn bên trong giúp hiệu năng mạnh mẽ hơn và tiết kiệm khoảng 15% năng lượng so với A14 Bionic.",
+  "image": "/images/ipad6.JPG",
+  "price": "600$"
+},
+{
+  "nameProduct": "iPad Air 4 Wifi 64GB",
+  "description": "Apple trang bị cho iPad Air 4 chip A14 Bionic 6 nhân được sản xuất bởi TSMC với tiến trình 5 nm hiện đại nhất hiện nay. Số lượng bóng bán dẫn đạt 11.8 tỷ cao hơn 40% so với A13 Bionic (8.5 tỷ). Có thể thấy số lượng bóng bán dẫn càng lớn thì chip càng mạnh và tiết kiệm năng lượng hơn",
+  "image": "/images/ipad4.JPG",
+  "price": "400$"
+},
+{
+  "nameProduct": "iPad Air 5 M1 Wifi 64GB",
+  "description": "iPad Air 5 M1 Wifi 64 GB đã được công bố tại sự kiện Peek Performace diễn ra hôm 9/3 (theo giờ Việt Nam). Năm nay Apple đã có những thay đổi lớn về cả hiệu năng và bổ sung màu sắc mới cho thiết bị.",
+  "image": "/images/ipad5.JPG",
+  "price": "580$"
+},
+{
+  "nameProduct": "iPad Pro M1 11 inch WiFi Cellular",
+  "description": "Máy tính bảng iPad Pro M1 11 inch WiFi Cellular 1TB (2021) thiết kế hình hộp vát cạnh vuông vức, hiện đại với thân máy bằng kim loại chắc chắn, hoàn thiện tỉ mỉ và sang trọng, trọng lượng nhẹ, kích cỡ hợp lý thuận tiện sử dụng và mang theo.",
+  "image": "/images/ipadpro.JPG",
+  "price": "1500$"
+},
+{
+  "nameProduct": "MacBook Air M1 2020",
+  "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+  "image": "/images/mbM1.JPG",
+  "price": "1200$"
+},
+{
+  "nameProduct": "MacBook Pro M1 2020",
+  "description": "Apple MacBook Pro M1 2020 là chiếc máy tính xách tay cao cấp, được nâng lên một cấp độ hoàn toàn mới với bộ vi xử lý Apple M1 mạnh mẽ ẩn trong vẻ ngoài hiện đại và thanh lịch, phục vụ tốt cho công việc văn phòng cơ bản đến thiết kế đồ họa chuyên nghiệp.  ",
+  "image": "/images/mbProM1.JPG",
+  "price": "2000$"
+},
+{
+  "nameProduct": "MacBook Pro 14 M1 Max 2021",
+  "description": "Khoác lên mình vẻ ngoài mới lạ so với các dòng Mac trước đó, thiết kế màn hình tai thỏ ấn tượng, bắt mắt cùng bộ hiệu năng đỉnh cao M1 Max mạnh mẽ, MacBook Pro 14 inch M1 Max 2021 xứng tầm là chiếc laptop cao cấp chuyên dụng dành cho dân kỹ thuật - đồ họa, sáng tạo nội dung.",
+  "image": "/images/mb14.JPG",
+  "price": "3000$"
+},
+{
+  "nameProduct": "MacBook Pro 16 M1 Pro 2021",
+  "description": "Thể hiện đẳng cấp sang chảnh cùng chiếc MacBook Pro 16 M1 Pro 2021 cực kì sang trọng, cùng hiệu năng mạnh mẽ được nâng cấp với chip M1 Pro cho hiệu suất đột phá và thời lượng pin ấn tượng, đem đến cho bạn trải nghiệm tuyệt vời nhất.",
+  "image": "/images/mb16.JPG",
+  "price": "3500$"
+},
+{
+  "nameProduct": "MacBook Air",
+  "description": "Chiếc MacBook này được trang bị con chip Apple M1 được sản xuất độc quyền bởi Nhà Táo trên tiến trình 5 nm, 8 lõi bao gồm 4 lõi tiết kiệm điện và 4 lõi hiệu suất cao, mang đến một hiệu năng kinh ngạc, xử lý mọi tác vụ văn phòng một cách mượt mà như Word, Excel, Powerpoint,... thực hiện tốt các nhiệm vụ chỉnh sửa hình ảnh, kết xuất 2D trên các phần mềm Photoshop, AI,... máy còn hỗ trợ tiết kiệm được điện năng cao.",
+  "image": "/images/mbair.JPG",
+  "price": "2000$"
+},
+{
+  "nameProduct": "Apple Watch SE 40mm",
+  "description": "Apple Watch SE 40mm viền nhôm dây cao su hồng có khung viền chắc chắn, thiết kế bo tròn 4 góc giúp thao tác vuốt chạm thoải mái hơn. Mặt kính cường lực Ion-X strengthened glass với kích thước 1.57 inch, hiển thị rõ ràng. Khung viền nhôm chắc chắn cùng dây đeo cao su có độ đàn hồi cao, êm ái, tạo cảm giác thoải mái khi đeo.",
+  "image": "/images/awSe.JPG",
+  "price": "700$"
+},
+{
+  "nameProduct": "Apple Watch S6 LTE 40mm",
+  "description": "Apple Watch S6 LTE 40mm viền nhôm dây cao su hồng được trang bị khung viền nhôm và mặt kính Ion-X strengthened glass bền bỉ và cứng cáp, chịu lực tốt, cho bạn thoải mái vận động, không ngại những va đập thường ngày. Dây đeo cao su không thấm nước, êm nhẹ, cho bạn cảm giác dễ chịu suốt ngày dài.",
+  "image": "/images/aws6.JPG",
+  "price": "1000$"
+},
+{
+  "nameProduct": "Apple Watch Series 7 LTE 41mm",
+  "description": "Apple Watch S7 LTE 41 mm viền nhôm dây cao su có thiết kế được nâng cấp hơn so với phiên bản tiền nhiệm. Sở hữu vẻ ngoài sang trọng và hiện đại, Apple Watch S7 được thiết kế các góc bo tròn mềm mại với mặt đồng hồ được vác cong tạo cảm giác liền mạch hơn với khung viền. Phần khung viền được thiết kế mỏng hơn 40% và làm từ vật liệu nhôm tái chế 100% thân thiện với môi trường. Dây đeo cao su có độ đàn hồi tốt, thoải mái khi đeo và chống thấm mồ hôi hiệu quả",
+  "image": "/images/aws7.JPG",
+  "price": "1200$"
+},
+{
+  "nameProduct": "Apple Watch S5 LTE 44mm",
+  "description": "Apple Watch S5 LTE 44mm viền thép dây thép bạc có dây đeo dạng lưới đan mỏng, được gia công hoàn toàn từ thép không gỉ, vừa quý phái lại vừa mang cảm giác mát tay khi đeo. Màn hình cảm ứng có mặt kính Saphire cứng cáp giúp bảo vệ chiếc đồng hồ của bạn an toàn trước những va đập không mong muốn. Apple Watch không chỉ là đồng hồ với nhiều tính năng thông minh mà còn là một phụ kiện thời trang cao cấp.",
+  "image": "/images/aws5.JPG",
+  "price": "900$"
+},
+{
+  "nameProduct": "Apple Watch S3 GPS 42mm",
+  "description": "Về mặt tổng thể Apple Watch S3 42 mm có kích thước tương tự như Apple Watch Series 2. Sản phẩm chú trọng thêm về mặt thẩm mỹ với thiết kế sang trọng, năng động, dây đeo có nhiều màu sắc khác nhau.",
+  "image": "/images/aws3.JPG",
+  "price": "300$"
+}
+]
